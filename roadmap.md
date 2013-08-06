@@ -7,9 +7,12 @@ Possible chapters
 2. Building, Client Side
   * Introduction to Grunt
   * Grunt Modules to Improve Your Workflow
+  * Bower
+  * Yeoman
 
 3. Front End Build Best Practices
   * Progressive Enhancement
+  * Responsive Design vs Adaptive Design
   * Feature Detection
     * Modernizr
 
